@@ -1,3 +1,5 @@
+![screenshot of final project](https://github.com/BinuBims/BinuK_JavaScript_Web_App/blob/main/src/assets/scrennshot_game.png))
+
 ## Installation
 
 1. **Clone the repository**:
@@ -13,13 +15,7 @@
     ```bash
     npm run dev
 
-
-
-
 ### API Usage
-
-```markdown
-## API Usage
 
 This project uses the [Deck of Cards API](https://deckofcardsapi.com/) with these endpoints:
 
