@@ -1,4 +1,4 @@
-![screenshot of final project](https://github.com/BinuBims/BinuK_JavaScript_Web_App/blob/main/src/assets/scrennshot_game.png))
+![screenshot of final project](https://github.com/BinuBims/BinuK_JavaScript_Web_App/blob/main/src/assets/scrennshot_game.png)
 
 ## Installation
 
